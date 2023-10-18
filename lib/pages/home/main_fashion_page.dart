@@ -1,5 +1,5 @@
 import 'package:fashion/pages/home/fashionpagebody.dart';
-import 'package:fashion/profile_page.dart';
+import 'package:fashion/pages/home/profile_page.dart';
 import 'package:flutter/material.dart';
 
 class MainFashionPage extends StatefulWidget {

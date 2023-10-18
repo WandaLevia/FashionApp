@@ -1,7 +1,7 @@
 import 'package:dots_indicator/dots_indicator.dart';
 import 'package:fashion/data/discount.dart';
 import 'package:fashion/data/fashion.dart';
-import 'package:fashion/detailpakaianpria.dart';
+import 'package:fashion/widgets/detailpakaianpria.dart';
 import 'package:fashion/widgets/big_text.dart';
 import 'package:fashion/widgets/detailaksesoris.dart';
 import 'package:fashion/widgets/detailpakaiananak.dart';
